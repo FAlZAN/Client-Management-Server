@@ -1,0 +1,23 @@
+GET Request
+
+Disposed Data
+https://domain/api/alldisposed
+
+Follow Up Data
+https://domain/api/allfollowup
+
+
+POST Request
+
+Disposed Data
+https://domain/api/disposed
+
+Follow Up Data
+https://domain/api/followup
+
+
+DELETE Request
+
+Delete's a particular document based on it's Id.
+https://domain/api/adocument
+
